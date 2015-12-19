@@ -3,7 +3,7 @@
 [![devDependency Status](https://david-dm.org/artworxgmbh/vid-io/dev-status.svg)](https://david-dm.org/artworxgmbh/vid-io#info=devDependencies)
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-![logo](vidio-logo.png)
+![logo](https://raw.githubusercontent.com/artworxgmbh/vid-io/master/vidio-logo.png)
 
 vid-io
 ==================================================
