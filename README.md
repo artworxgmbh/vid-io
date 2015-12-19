@@ -22,7 +22,7 @@ var myVidIo = VidIo({
 
 ## Installation
 ```
-$ npm install --save-dev vid-io
+$ bower install artworxgmbh/vid-io --save
 ```
 
 ## Contribute
