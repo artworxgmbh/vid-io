@@ -1,0 +1,15 @@
+default:
+  - build
+
+test:
+  - karma
+
+build:
+  - clean
+  - jshint:lib
+  - jscs:lib
+  - karma
+  - umd
+  - concat
+  - uglify
+  - micro
